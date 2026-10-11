@@ -7,7 +7,7 @@ Tugas 2 - Membuat code snippet yang dapat menyelesaikan permainan pada soal gamb
 
 
 ## Deskripsi
-Program ini menyelesaikan permainan Hanoi dengan memindahkan 3 piringan dari tiang A ke tiang C menggunakan tiang B sebagai bantuan.
+Program ini menyelesaikan permainan Tower of Hanoi dengan memindahkan 3 piringan dari tiang A ke tiang C menggunakan tiang B sebagai bantuan.
 
 ## Algoritma yang digunakan
 Program menggunakan **rekursi (recursion)**, yaitu teknik ketika sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan bagian masalah yang lebih kecil.

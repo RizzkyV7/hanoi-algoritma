@@ -3,7 +3,8 @@
 Nama: Ananda Rizky Muntazar Muthahhari
 
 Tugas 2 - Membuat code snippet yang dapat menyelesaikan permainan pada soal gambar di E-Learning
-<img width="656" height="1015" alt="flowchart" src="https://elearning.esaunggul.ac.id/pluginfile.php/2085508/mod_assign/intro/image.png" />
+<img width="255" height="274" alt="image (3)" src="https://github.com/user-attachments/assets/b0e8adcc-1b4d-4165-9f71-aa40ebd6aafe" />
+
 
 ## Deskripsi
 Program ini menyelesaikan permainan Hanoi dengan memindahkan 3 piringan dari tiang A ke tiang C menggunakan tiang B sebagai bantuan.

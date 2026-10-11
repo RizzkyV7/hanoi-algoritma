@@ -1,5 +1,10 @@
 # Hanoi menggunakan Python
 
+Nama: Ananda Rizky Muntazar Muthahhari
+
+Tugas 2 - Membuat code snippet yang dapat menyelesaikan permainan pada soal gambar di E-Learning
+<img width="656" height="1015" alt="flowchart" src="https://elearning.esaunggul.ac.id/pluginfile.php/2085508/mod_assign/intro/image.png" />
+
 ## Deskripsi
 Program ini menyelesaikan permainan Hanoi dengan memindahkan 3 piringan dari tiang A ke tiang C menggunakan tiang B sebagai bantuan.
 
